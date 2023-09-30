@@ -20,14 +20,16 @@ export default async function handler(req, res) {
         shipping_address_collection: {
           allowed_countries: ['BR'],
         },
-       
+        
         // Shipping options - create them in the Stripe dashboard and copy the IDs here
         // @link https://dashboard.stripe.com/test/shipping-rates
         shipping_options: [
           // FREE SHIPPING
-          { shipping_rate: 'shr_1NuaFaICE2vmDpGb65wDVLry' },
+          { shipping_rate: 'shr_1NvqsYICE2vmDpGbuKQLcVoA' },
 
-          { shipping_rate: 'shr_1NvNvOICE2vmDpGb9Chp1Iec' },
+          { shipping_rate: 'shr_1NvqtWICE2vmDpGbkD9hwbsy' },
+
+          { shipping_rate: 'shr_1NvqvQICE2vmDpGbEtWcbT5w' },
           
         ],
 
