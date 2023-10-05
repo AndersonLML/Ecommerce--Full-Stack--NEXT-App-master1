@@ -5,7 +5,7 @@
   },
   "api": {
     "projectId": "h1g7r4lc",
-    "dataset": "production"
+    "dataset": "quebrandooferta"
   },
   "plugins": [
     "@sanity/base",

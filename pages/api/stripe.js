@@ -42,7 +42,7 @@ export default async function handler(req, res) {
             .replace(
               'image-',
               // NOTE: use sanity project id in the url
-              'https://cdn.sanity.io/images/h1g7r4lc/production/'
+              'https://cdn.sanity.io/images/h1g7r4lc/quebrandooferta/'
             )
             .replace('-webp', '.webp') // NOTE: put .jpg or .png if you don't use webp images
 
