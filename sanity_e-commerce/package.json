@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "Alvi Hasan <livealvi@gmail.com>",
+  "author": "Anderson Leonardo Machado Leite <systemtec3030@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",

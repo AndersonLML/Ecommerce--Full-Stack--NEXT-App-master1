@@ -20,7 +20,7 @@ const HeroBanner = ({ heroBanner }) => {
             
           
           <div className="desc">
-            <h5>Melhor Assistência Técnica de Barretos</h5>
+            <h5>T-Shirts OSKLEN</h5>
             <p>{heroBanner.desc}</p>
           </div>
         </div>

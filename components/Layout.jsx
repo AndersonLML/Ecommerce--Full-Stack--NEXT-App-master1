@@ -9,8 +9,8 @@ const Layout = ({ children }) => {
       <Head>
         <title>SystemTec  - Produtos Eletrônicos</title>
         <meta
-          name="description"
-          content="Ecommerce de Produtos Eletrônicos. SystemTec Informática"
+          name="Descrição"
+          content="Quebrando Ofertas - Ecommerce de Produtos Eletrônicos."
         />
         <link rel='icon' href='/zishop.ico' /> 
       </Head>

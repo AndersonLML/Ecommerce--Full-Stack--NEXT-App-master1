@@ -5,7 +5,7 @@ import { AiFillInstagram, AiFillLinkedin, AiFillYoutube, AiOutlineTwitter, AiOut
 const Footer = () => {
   return (
     <div className="footer-container">
-      <p>2023 SystemTec Produtos Eletrônicos. Todos os Direitos Reservados</p>
+      <p>2023 Quebrando Ofertas. Todos os Direitos Reservados</p>
       <p className="icons">
         <Link href="https://www.instagram.com/systemtec3030/">
         <AiFillInstagram />
